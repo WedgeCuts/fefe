@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfdialogue.png">
+<SubTexture name="bf yea0000" x="0" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+<SubTexture name="bf smug0000" x="454" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+<SubTexture name="bf wut0000" x="908" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+</TextureAtlas>

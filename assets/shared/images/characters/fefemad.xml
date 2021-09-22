@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fefemad.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fefedown0000" x="2" y="2" width="550" height="412"/>
+	<SubTexture name="fefedown0001" x="562" y="2" width="550" height="412"/>
+	<SubTexture name="fefedown0002" x="1122" y="2" width="550" height="412"/>
+	<SubTexture name="fefedown0003" x="1682" y="2" width="550" height="412"/>
+	<SubTexture name="fefedown0004" x="2242" y="2" width="550" height="412"/>
+	<SubTexture name="fefedown0005" x="2802" y="2" width="550" height="412"/>
+	<SubTexture name="fefeidle0000" x="3362" y="2" width="550" height="412"/>
+	<SubTexture name="fefeidle0001" x="2" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0002" x="562" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0003" x="1122" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0004" x="1682" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0005" x="2242" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0006" x="2802" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0007" x="3362" y="424" width="550" height="412"/>
+	<SubTexture name="fefeidle0008" x="2" y="846" width="550" height="412"/>
+	<SubTexture name="fefeidle0009" x="562" y="846" width="550" height="412"/>
+	<SubTexture name="fefeidle0010" x="1122" y="846" width="550" height="412"/>
+	<SubTexture name="fefeidle0011" x="1682" y="846" width="550" height="412"/>
+	<SubTexture name="fefeidle0012" x="2242" y="846" width="550" height="412"/>
+	<SubTexture name="fefeidle0013" x="2802" y="846" width="550" height="412"/>
+	<SubTexture name="fefeleft0000" x="3362" y="846" width="550" height="412"/>
+	<SubTexture name="fefeleft0001" x="2" y="1268" width="550" height="412"/>
+	<SubTexture name="fefeleft0002" x="562" y="1268" width="550" height="412"/>
+	<SubTexture name="fefeleft0003" x="1122" y="1268" width="550" height="412"/>
+	<SubTexture name="feferight0000" x="1682" y="1268" width="550" height="412" frameX="-7" frameY="0" frameWidth="557" frameHeight="412"/>
+	<SubTexture name="feferight0001" x="2242" y="1268" width="550" height="412" frameX="-7" frameY="0" frameWidth="557" frameHeight="412"/>
+	<SubTexture name="feferight0002" x="2802" y="1268" width="557" height="412"/>
+	<SubTexture name="feferight0003" x="3369" y="1268" width="550" height="412" frameX="-7" frameY="0" frameWidth="557" frameHeight="412"/>
+	<SubTexture name="feferight0004" x="2" y="1690" width="550" height="412" frameX="-7" frameY="0" frameWidth="557" frameHeight="412"/>
+	<SubTexture name="fefeup0000" x="562" y="1690" width="550" height="412" frameX="0" frameY="-17" frameWidth="550" frameHeight="429"/>
+	<SubTexture name="fefeup0001" x="1122" y="1690" width="550" height="429"/>
+	<SubTexture name="fefeup0002" x="1682" y="1690" width="550" height="421" frameX="0" frameY="-8" frameWidth="550" frameHeight="429"/>
+	<SubTexture name="fefeup0003" x="2242" y="1690" width="550" height="428" frameX="0" frameY="-1" frameWidth="550" frameHeight="429"/>
+	<SubTexture name="fefeup0004" x="2802" y="1690" width="550" height="429"/>
+	<SubTexture name="fefeup0005" x="3362" y="1690" width="550" height="429"/>
+</TextureAtlas>
