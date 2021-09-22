@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fefedialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FEFEAPPEAR0000" x="2" y="2" width="300" height="70" frameX="-27" frameY="-180" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0001" x="312" y="2" width="303" height="72" frameX="-27" frameY="-178" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0002" x="625" y="2" width="347" height="136" frameX="-27" frameY="-114" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0003" x="2" y="148" width="327" height="250" frameX="0" frameY="0" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0004" x="339" y="148" width="405" height="250" frameX="-27" frameY="0" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0005" x="2" y="408" width="311" height="250" frameX="-27" frameY="0" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0006" x="323" y="408" width="281" height="235" frameX="-41" frameY="-15" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0007" x="323" y="408" width="281" height="235" frameX="-41" frameY="-15" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0008" x="323" y="408" width="281" height="235" frameX="-41" frameY="-15" frameWidth="432" frameHeight="250"/>
+	<SubTexture name="FEFEAPPEAR0009" x="323" y="408" width="281" height="235" frameX="-41" frameY="-15" frameWidth="432" frameHeight="250"/>
+</TextureAtlas>
